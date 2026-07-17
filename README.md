@@ -35,12 +35,6 @@ Welcome to my GitHub! I am a third-year Software Engineering student at Gümüş
 
 ---
 
-### 📊 My GitHub Performance
-
-![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frdbxsv&theme=tokyonight&show_icons=true)
-
----
-
 ### 📫 Let's Connect!
 
 * 📧 **Email:** feridbaxisow@gmail.com
