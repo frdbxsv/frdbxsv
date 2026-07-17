@@ -1,24 +1,24 @@
 # 👨‍💻 Hi there, I'm Farid Bakhishov! (@frdbxsv)
 
-**Software Engineering Student | Aspiring Red Teamer | Python & Flutter Developer**
+**Software Engineering Student | Aspiring Red Teamer | Python Developer**
 
-Welcome to my GitHub! I am a third year Software Engineering student at Gümüşhane University. I am passionate about building secure applications and breaking them to understand how they truly work under the hood. Currently, I am deeply focused on transitioning my skills toward **Cybersecurity, Penetration Testing, and Red Teaming**.
+Welcome to my GitHub! I am a third-year Software Engineering student at Gümüşhane University. I am deeply passionate about cybersecurity, offensive security, and understanding how corporate networks operate under the hood. Currently, I am focusing 100% of my time and skills on **Penetration Testing, Ethical Hacking, and Red Teaming concepts**.
 
 ---
 
 ### 🛡️ Cybersecurity & Network Journey
 
-* 🎯 **Current Focus:** Network Fundamentals (CCNA), Penetration Testing, and Red Teaming concepts.
-* 💻 **Platforms:** Active learner on **TryHackMe** (Building my foundation in Red Team Engagements).
-* 🔧 **Skills & Topics:** Network Analysis (IP, NAT, DNS, Routing), OSI Model, Packet Sniffing, Linux/Windows CLI.
+* 🎯 **Current Focus:** Network Fundamentals (CCNA), Penetration Testing, and Red Teaming methodologies.
+* 💻 **Platforms:** Active learner on **TryHackMe** (Building a solid foundation in Offensive & Defensive Security).
+* 🔧 **Skills & Core Topics:** Network Analysis (IP, NAT, DNS, Routing), OSI Model, Packet Sniffing, Linux/Windows CLI.
 
 ---
 
-### 💻 Software Development Stack
+### 💻 Cybersecurity Development Stack
 
-* 🚀 **Languages:** Python, Dart, JavaScript
-* 🛠️ **Frameworks & Tools:** Flutter, Android Studio, VS Code, Git
-* ⚽ **Projects:** Mobile/Desktop Applications, APIs, and Sports Management Simulators.
+* 🐍 **Primary Language:** Python (Focused on automating security tasks and building custom networking scripts).
+* 🛠️ **Environment & Tools:** Linux Terminal, Git, VS Code, Network Analysis Tools.
+* 📂 **Upcoming Projects:** Developing custom Port Scanners, Ping Sweepers, and Network Automation scripts.
 
 ---
 
@@ -39,4 +39,4 @@ Welcome to my GitHub! I am a third year Software Engineering student at Gümüş
 
 ---
 
-⭐️ *"Understanding how to build it is the first step to knowing how to break it."*
+⭐️ *"Understanding how to build network protocols is the first step to knowing how to secure them."*
